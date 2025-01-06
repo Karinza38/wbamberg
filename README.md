@@ -1,4 +1,4 @@
-I'm a technical writer at [Open Web Docs](https://openwebdocs.org/), working on [MDN Web Docs](https://developer.mozilla.org/). I work on a mixture of:
+ I'm a technical writer at [Open Web Docs](https://openwebdocs.org/), working on [MDN Web Docs](https://developer.mozilla.org/). I work on a mixture of:
 
 - writing projects
 - things that are more about documentation infrastructure
